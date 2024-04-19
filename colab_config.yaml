@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/ml_project_crop_vs_weed/agri_data
+train: data/Training_Data
+val: data/Validation_Data
+
+# Classes
+names:
+  0: crop
+  1: weed

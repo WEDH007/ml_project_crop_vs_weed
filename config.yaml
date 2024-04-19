@@ -1,0 +1,8 @@
+path: /Users/williamduran/Library/CloudStorage/OneDrive-FloridaInternationalUniversity/senior_year/introduction_to_machine_learning/final_project/Crop-vs-Weeds-Model/agri_data
+train: data
+val: data
+
+# Classes
+names:
+  0: crop
+  1: weed
